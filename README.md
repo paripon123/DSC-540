@@ -1,7 +1,7 @@
 # DSC-540
 Advance Machine Learning
 ## Description
-This rspository includes Class Assignment and Final Project (in Jupyter Notebook)
+This respository includes Class Assignment and Final Project (in Jupyter Notebook)
 #
 
 ### Final Project (Airbnb data analysis)
